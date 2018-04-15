@@ -6,6 +6,7 @@
             <hgroup class="title">
                 <h1><%: Title %>.</h1>
                 maybe
+                <asp:Image runat="server" ImageUrl="~/trunk/Images/19248136_784104291794393_7189825892237543806_n.jpg" />
             </hgroup>
             <p>
                 To learn more about ASP.NET, visit <a href="http://asp.net" title="ASP.NET Website">http://asp.net</a>. 
