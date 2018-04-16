@@ -10,7 +10,6 @@
                 <asp:Image runat="server" ImageUrl="~/Images/19248136_784104291794393_7189825892237543806_n.jpg" />
             <p>
                 To learn more about ASP.NET, visit <a href="http://asp.net" title="ASP.NET Website">http://asp.net</a>. 
-                The page features <mark>videos, tutorials, and samples</mark> to help you get the most from 
                 ASP.NET. If you have any questions about ASP.NET visit 
                 <a href="http://forums.asp.net/18.aspx" title="ASP.NET Forum">our forums</a>.
          
